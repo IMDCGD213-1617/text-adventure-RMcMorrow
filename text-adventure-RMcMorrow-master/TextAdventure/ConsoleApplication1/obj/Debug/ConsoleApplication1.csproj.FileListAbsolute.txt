@@ -1,0 +1,6 @@
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,14 @@
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.exe.config
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.exe.config
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.XML
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.exe
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.pdb
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\obj\Debug\TextAdventure.exe
+D:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\obj\Debug\TextAdventure.pdb
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.XML
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\obj\Debug\TextAdventure.exe
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\obj\Debug\TextAdventure.pdb
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.exe
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\bin\Debug\TextAdventure.pdb
+E:\Season 5\Chris\text-adventure-RMcMorrow-master\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
